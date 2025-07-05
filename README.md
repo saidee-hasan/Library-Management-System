@@ -89,8 +89,8 @@ npm run dev
 
 For any questions, feel free to reach out:
 
-* Name: Mostary Jahan
-* Email: [mostaryjahan01@email.com](mailto:mostaryjahan01@email.com)
-* GitHub: [Mostary Jahan](https://github.com/mostaryjahan)
+* Name: Saidee Hasan
+* Email: [mdsaideehasan@email.com](mailto:mdsaideehasan@email.com)
+* GitHub: [Mostary Jahan](https://github.com/saidee-hasan)
 
 # Library-Management-System
