@@ -60,5 +60,3 @@ export const {
   useDeleteBookMutation,
   useUpdateBookMutation,
   useBorrowBookMutation,
-  useGetBorrowSummaryQuery,
-} = baseApi;
