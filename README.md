@@ -42,8 +42,8 @@
 
 ```bash
 # Clone this repo
-git clone https://github.com/saidee-hasan/
-cd L2-A4-client
+git clone https://github.com/saidee-hasan/Library-Management-System.git
+cd Library-Management-System
 ```
 
 
@@ -62,7 +62,7 @@ VITE_BASE_URL=https://l2-a3-brown.vercel.app
 ```
 
 ### 📦 You can also clone the backend server from here:  
-👉 [Backend Repo](https://github.com/mostaryjahan/L2-A3)
+👉 [Backend Repo](https://github.com/saidee-hasan/library-management-api.git)
 
 
 
